@@ -7,7 +7,7 @@ A repository for Group 2
 ### Team Members
 
 * Name: **Allison Wells**
-* Name: **William Brown**
+* Name: **Patrick Bacza**
 * Name: **Chris Winn**
 * Name: **William Brown**
 * Name: **Syed Husain**
