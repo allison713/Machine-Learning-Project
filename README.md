@@ -14,7 +14,7 @@ A repository for Group 2
 
 ### Project Description
 
-In this project, we will be analyzing human emotions at a live performance:
-Live performance
-Sports Event
-Political Debate
+#In this project, we will be analyzing human emotions at a live performance:
+# Live performance
+# Sports Event
+# Political Debate
