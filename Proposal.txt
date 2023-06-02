@@ -1,0 +1,6 @@
+Topic: Machine Learning to detect emotions on faces.
+
+Question: 
+
+How much data: 35888 faces
+What was used to train? Model size and architecture, resnet?
