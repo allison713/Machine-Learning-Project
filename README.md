@@ -28,3 +28,5 @@ Grayscale portraits of faces measuring 48 × 48 pixels make up the data. The fac
     Example project: https://github.com/gitshanks/fer2013/blob/master/fertrain.py
     Data source: https://huggingface.co/spaces/mxz/emtion/blob/c697775e0adc35a9cec32bd4d3484b5f5a263748/fer2013.csv
     Competition: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+## Process:
+The data was downloaded as a CSV file using the python library pandas. Then using matplotlib and numpy we visualized the model. We did not use spark as we are going to convert everything back to pandas liberaries. We used AWS S3 bucket to store our file and as a repository for google colab and we also used Keras to build convolution model so we can expresses the amount of overlap of one function as it is shifted over another function.
