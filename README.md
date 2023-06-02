@@ -14,7 +14,9 @@ A repository for Group 2
 
 ### Project Description
 
-In this project, we will be analyzing human emotions at a live performance:
+In this project, we will use Convolution Neural Nets to train a model to predict human emotion. 
+
+Motivations for analyzing human emotions could include at a live performance:
 * Live performance
 * Sports Event
 * Political Debate
