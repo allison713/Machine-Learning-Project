@@ -24,7 +24,7 @@ Grayscale portraits of faces measuring 48 × 48 pixels make up the data. The fac
 
 "Emotion" and "Pixels" are two columns in train.csv. The emotion that is present in the image is represented by a numeric code in the "emotion" column that ranges from 0 to 6, inclusive. For each image, a string enclosed in quotes is present in the "pixels" column. The values in this string are separated by spaces and are arranged in row major order. The "pixels" column is the only one in test.csv.
 
-# Sources:
+## Sources:
     Example project: https://github.com/gitshanks/fer2013/blob/master/fertrain.py
     Data source: https://huggingface.co/spaces/mxz/emtion/blob/c697775e0adc35a9cec32bd4d3484b5f5a263748/fer2013.csv
     Competition: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
